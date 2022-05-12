@@ -1,15 +1,16 @@
 # level00
 
-Watch the intra's video about snowcrash:
+Watch the intra's video about snowcrash: \
 There is a Readme that says:
 ![IntraVideoReadMe](assets/IntraVideoReadme.png)
 
-So I looked for "linux find file with specific permission", then I did "man find" and wrote this cmd:
+So I looked for "linux find file with specific permission", \
+Then I did "man find" and wrote this cmd:
 ```
 find / -user flag00 2>/dev/null
-# Output: ./usr/sbin/john
+# Output: /usr/sbin/john
 
-cat ./usr/sbin/john
+cat /usr/sbin/john
 # Output: cdiiddwpgswtgt
 ```
 

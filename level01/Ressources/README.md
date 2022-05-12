@@ -16,5 +16,5 @@ How could it be encrypted?
 
 > crack hash password /etc/passwd
 
-[How to use John](https://tzusec.com/crack-password-hashes-from-linux-with-john-the-ripper/)
-Output: abcedfg
+[How to use John](https://tzusec.com/crack-password-hashes-from-linux-with-john-the-ripper/) \
+Output: abcdefg
